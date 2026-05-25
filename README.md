@@ -1,5 +1,5 @@
 # WalmartChallenge-180922105
-Repositorio creado para almacenar el desarrollo realiado para el challenge de QA Performance Engineer
+Repositorio creado para almacenar el desarrollo realizado para el challenge de QA Performance Engineer
 
 Archivos: 
 1. descomprimir apache-jmeter-5.6.3.zip, ya que, tiene plugins instalados
